@@ -1,1 +1,1 @@
-# GitHubWorkshop
+# GitHubWorkshopRecipe
