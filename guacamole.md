@@ -7,7 +7,7 @@ Ingrediance:
 - 1 Bushel of cilontro
 
 Instructions:
-- Cut avocados
+- Cut avocado
 - Mash avocados
 - Chop onion
 - Chop jalapeno
