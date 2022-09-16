@@ -7,8 +7,8 @@ Ingrediance:
 - 1 Bushel of cilontro
 
 Instructions:
-- Cut avocados
-- Mash avocados
+- Cut avocados into cool shapes
+- Mash avocados e
 - Chop onion
 - Chop jalapeno
 - Add salt
