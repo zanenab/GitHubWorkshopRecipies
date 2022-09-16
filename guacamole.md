@@ -7,7 +7,7 @@ Ingrediance:
 - 1 Bushel of cilontro
 
 Instructions:
-- Cut avocado
+- Cut avocado into cool shapes
 - Mash avocados
 - Chop onion
 - Chop jalapeno
@@ -16,3 +16,4 @@ Instructions:
 - Add cilantro
 - Add lime juice
 - Mix well
+- shoot the bowl
